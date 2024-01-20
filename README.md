@@ -1,4 +1,4 @@
-# Public Elixir Projects
+# Awesome Elixir
 
 Deep dive into the Elixir adventures crafted by Hany
 
