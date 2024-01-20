@@ -1,4 +1,6 @@
-# Elixir Examples
+# Public Elixir Projects
+
+## Elixir Meetup
 
 - [:octocat: elixir-nif-peer-example](https://github.com/rudebono/elixir-nif-peer-example)
   - 2024 Seoul Elixir Meetup - Safe Erlang NIFs: Fault-Tolerance System using the :peer
