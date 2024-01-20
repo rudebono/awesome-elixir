@@ -1,5 +1,8 @@
 # Public Elixir Projects
 
+Deep dive into the Elixir adventures crafted by Hany
+
+
 ## Elixir Meetup
 
 - [:octocat: elixir-nif-peer-example](https://github.com/rudebono/elixir-nif-peer-example)
