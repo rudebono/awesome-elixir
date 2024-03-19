@@ -4,7 +4,7 @@ Deep dive into the Elixir adventures crafted by Hany
 
 ## Elixir Meetup
 
-- [:octocat: elixir-frame-example](https://github.com/rudebono/elixir-frame-example)
+- [:octocat: elixir-flame-example](https://github.com/rudebono/elixir-flame-example)
   - 202? Seoul Elixir Meetup - 🚧 Implementing FLAME pattern using GCP Cloud Run and Tailscale
 - [:octocat: elixir-nif-peer-example](https://github.com/rudebono/elixir-nif-peer-example)
   - 2024 Seoul Elixir Meetup - Safe Erlang NIFs: Fault-Tolerance System using the :peer
